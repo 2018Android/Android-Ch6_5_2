@@ -20,28 +20,28 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="三分熟" />
 
         <RadioButton
             android:id="@+id/rdbMedium"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="五分熟" />
 
         <RadioButton
             android:id="@+id/rdbMedWell"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="七分熟" />
 
         <RadioButton
             android:id="@+id/rdbWellDone"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="全熟" />
     </RadioGroup>
 
     <TextView
